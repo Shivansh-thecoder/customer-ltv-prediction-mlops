@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlflow/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Kubernetes temp files
+*.log
